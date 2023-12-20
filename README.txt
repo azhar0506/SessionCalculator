@@ -18,7 +18,7 @@ python SessionCalculator.py <path_to_log_file>
 Replace <path_to_log_file> with the actual path to your log file.
 
 Example:
-python SessionCalculator.py logs.txt
+python3 SessionCalculator.py logs.txt
 
 Input File Format:
 ------------------
